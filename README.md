@@ -1,4 +1,4 @@
-##Steps to setup the environment
+## Steps to setup the environment
 1. First Download and Install Node JS and NPM package in your system.
 2. Create `NODEHOME` system enviroment.
 3. Download and Install Cypress in your system.
